@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '33268'
     url: http://www.gutenberg.org/2009/agents/33268
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28327#Continuous-Vaudeville
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2009-03-14'
 gutenberg_type: Text
